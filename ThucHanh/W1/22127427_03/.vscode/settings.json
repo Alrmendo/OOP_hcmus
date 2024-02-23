@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "stdexcept": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "__locale": "cpp",
+        "__bit_reference": "cpp",
+        "__split_buffer": "cpp",
+        "vector": "cpp"
+    }
+}
